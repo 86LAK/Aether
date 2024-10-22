@@ -1,0 +1,2 @@
+# Aether
+Red colour palette
